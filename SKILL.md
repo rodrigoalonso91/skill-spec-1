@@ -37,6 +37,8 @@ Vamos a definir una spec. El usuario te dará una historia de usuario y tú tend
 - Las asunciones del listado inicial deben ser **funcionales / de producto / de negocio**, no técnicas.
 - Si la historia de usuario es muy ambigua, prioriza las asunciones más críticas para el comportamiento del sistema.
 - No inventes la spec final hasta el cierre explícito.
+- La spec siempre se debe crear en el root del proyecto dentro de una carpeta "docs/specs" salvo que el usuario indique lo contrario.
+- El nombre del archivo de spec debe comenzar con un numero y a medida que se crean spec ir autoincrementando (Ejemplo: 01-crear-landing.spec.md, 02-conectar-con-api.spec.md)
 
 ## Inicio
 
